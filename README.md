@@ -5,8 +5,8 @@ This project explores how Generative AI can improve credit card fraud detection 
 ---
 
 ## 📁 Project Structure
-
-'''contextual-fraud-detection-genai/
+'''bash
+contextual-fraud-detection-genai/
 │
 ├── notebooks/
 │   ├── 01_exploratory_data_analysis.ipynb
@@ -16,8 +16,8 @@ This project explores how Generative AI can improve credit card fraud detection 
 ├── data/
 │   └── final_dataset_with_context.csv
 │
-├── README.md'''
-
+├── README.md
+'''
 ---
 
 ## 🧪 Key Steps in Methodology
